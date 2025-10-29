@@ -1,0 +1,10 @@
+<viewsettings>
+    <scheme name="realistic">
+        <background backgroundColor="0.82,0.90,0.95"/>
+        <delay value="100"/>
+        <vehicles vehicleQuality="2" vehicleSize="1.0" showBlinker="1"/>
+        <edges laneEdgeMode="0" showLinkDecals="1" showLane2Lane="1"/>
+        <buildings fill="1"/>
+        <pois fill="1" minSize="10.0"/>
+    </scheme>
+</viewsettings>

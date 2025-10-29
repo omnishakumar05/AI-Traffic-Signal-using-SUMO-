@@ -1,16 +1,6 @@
 ## Installation
 Install SUMO from:  https://sumo.dlr.de/docs/Downloads.php
 Install Python from : https://www.python.org/downloads/
-
-# AI Traffic Control System - Quick Start
-Install Python Dependencies
-   pip install numpy torch gym traci
-Check SUMO and Python Integration
-    python -c "import traci; print('SUMO TraCI connected!')"
-Run Training
-     python train.py
-Run Simulation with GUI
-    python test.py
 ## Usage
 ### 1. Train the AI Agent
  Run this command to start training the reinforcement learning agent in simulation
@@ -26,4 +16,5 @@ This will load the trained model and open the SUMO GUI.
 -  Realistic vehicle models with collision avoidance
 -  Obstacle detection and slowdown
 -  Continuous traffic simulation
+
 
